@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier --write --ignore-path .prettierignore \"./**/*.{ts,tsx,json,js,jsx,md}\""
+    "format": "prettier --write --ignore-path .prettierignore \"./**/*.{html,json,js,md}\""
   },
   "repository": {
     "type": "git",

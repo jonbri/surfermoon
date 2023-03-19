@@ -8,7 +8,7 @@
     "format": "prettier --write --ignore-path .prettierignore \"./**/*.{html,json,js,md}\""
   },
   "prettier": {
-
+    "singleQuote": true
   },
   "repository": {
     "type": "git",

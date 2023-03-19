@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write --ignore-path .prettierignore \"./**/*.{html,json,js,md}\""
   },
+  "prettier": {
+
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jonbri/surfermoon.git"
